@@ -2,6 +2,8 @@
 # CLDV6211 POE
 
 Zinedean Saaiman's POE submission
+NB: The website must be accessed through the Home page as no default exists.
+Example: [https://st10348753-cldv6211.azurewebsites.net/Home](https://st10348753-cldv6211.azurewebsites.net/Home)
 
 ## How to install
 1. Download the master file through the GitHub repository.
